@@ -4,8 +4,8 @@ Um painel interativo de dados desenvolvido com Python e Streamlit, projetado par
 
 ## 📸 Screenshots do Projeto
 
-![Página Inicial](screenshots/Books_review_1.png)
-![Página de Reviews](screenshots/Books_review_2.png)
+![Página Inicial](https://github.com/ProfMPPDias/reviewslibrary_webapp_assimov/blob/main/screenshots/screenshot_1.png)
+![Página de Reviews](https://github.com/ProfMPPDias/reviewslibrary_webapp_assimov/blob/main/screenshots/screenshot_2.png)
 
 
 ## 👨‍💻 Desenvolvedor e Créditos
